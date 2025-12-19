@@ -213,7 +213,7 @@ p.top-text {
 }
 
 .name {
-  margin-left: 110px;
+  margin-left: 130px;
   margin-top: 25px;
   font-weight: 800;
 }
@@ -628,3 +628,4 @@ label, h2, .close-btn {
   background: transparent !important;
   text-shadow: none;
 }
+
